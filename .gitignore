@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Cached embeddings and downloaded corpora: large, regenerable, never committed.
+artifacts/
+data_cache/
+*.log
+
+# Poster/appendix are submitted separately as PDFs via STUD.IP, not via GitHub.
+poster/
+*.zip
+
+.ipynb_checkpoints/
+.DS_Store

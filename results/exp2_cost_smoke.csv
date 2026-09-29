@@ -1,0 +1,6 @@
+representation,family,build_seconds,head_fit_seconds,latency_seconds_per_doc,latency_seconds_per_100_docs,feature_dim,cached_features_mb,C
+tfidf,TF-IDF,0.1,0.05,0.00025238500005798415,0.025,7201,0.7,10.0
+w2v-self,Word2Vec,0.56,0.25,0.000271585000155028,0.027,300,1.2,10.0
+w2v-pre,Word2Vec,68.54,0.11,0.00034569999988889324,0.035,300,1.2,0.01
+bert-cls,BERT,5.57,0.07,0.11712665400002152,11.713,768,3.1,0.01
+bert-mean,BERT,0.52,0.07,0.11506329199997709,11.506,768,3.1,0.01
